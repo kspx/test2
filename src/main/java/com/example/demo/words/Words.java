@@ -4,9 +4,8 @@ import javax.validation.constraints.NotNull;
 
 public class Words {
 
-        @NotNull
+      
         private String word1;
-        @NotNull
         private String word2;
         private String relation;
 
